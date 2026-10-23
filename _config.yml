@@ -2,7 +2,7 @@
 title: Tomori的博客
 SEOTitle: Tomori的博客 | Tomori Blog
 header-img: img/post-bg-desk.jpg
-email: "your-email@example.com"
+email: "louis771224@gmail.com"
 description: "Welcome to my blog."
 keyword: "Tomori, Blog, Tech"
 url: "https://tomori771224.github.io" # your host, for absolute URL
@@ -12,7 +12,7 @@ github_repo: "https://github.com/Tomori771224/Tomori771224.github.io.git" # you 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "Hello, I am Tomori."
-sidebar-avatar: /img/about-BY-gentle.jpg # 注意：这是头像路径，稍后教你怎么换
+sidebar-avatar: /img/about-BY-gentle.png # 注意：这是头像路径，稍后教你怎么换
 # 提示：为了安全，原作者的头像图片稍后你可以自己找一张替换掉。
 
 # SNS settings
