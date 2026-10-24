@@ -31,8 +31,6 @@ paginate: 10
 exclude: ["less", "node_modules", "Gruntfile.js", "package.json", "README.md"]
 anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
 
-# Gems
-gems: [jekyll-paginate]
 
 # Markdown settings
 markdown: kramdown
@@ -67,4 +65,5 @@ service-worker: true
 friends: [] # 提示：这里被我清空了，你可以以后按格式加自己的朋友。
 
 plugins:
+  - jekyll-paginate
   - jekyll-sitemap
