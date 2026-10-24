@@ -65,3 +65,6 @@ service-worker: true
 
 # Friends (友链)
 friends: [] # 提示：这里被我清空了，你可以以后按格式加自己的朋友。
+
+plugins:
+  - jekyll-sitemap
