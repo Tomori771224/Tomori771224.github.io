@@ -47,7 +47,7 @@ gitalk:
   enable: true #是否开启Gitalk评论
   clientID: "Ov23li4pfKibB5IdX7VC" #生成的clientID
   clientSecret: "f1bf0f927a8b7c4c8b3b1e0e0da988f1cabccadd" #生成的clientSecret
-  repo: Tomori771224.github.io #仓库名称
+  repo: tomori771224.github.io #仓库名称
   owner: Tomori771224 #github用户名
   admin: Tomori771224
   distractionFreeMode: true
